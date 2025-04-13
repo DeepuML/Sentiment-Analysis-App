@@ -78,12 +78,16 @@ Edit
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
+
+
 3️⃣ Install dependencies:
 
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
+
 4️⃣ Run the application:
 
 bash
